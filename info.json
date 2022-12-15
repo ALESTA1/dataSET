@@ -1,0 +1,15 @@
+{
+    "info": {
+        "description": "Test dataset",
+        "version": "1",
+        "url": "http://immersivelimit.com/datasets/test",
+        "year": 2019,
+        "contributor": "Alesta",
+        "date_created": "12/10/2022"
+    },
+    "license": {
+        "url": "",
+        "id": 0,
+        "name": "Test License"
+    }
+}

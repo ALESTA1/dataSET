@@ -1,0 +1,202 @@
+{
+    "masks":
+    {
+        "Weed/iMAGES/01.PNG":
+        {
+            "mask":"Weed/MASKS/01.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/02.PNG":
+        {
+            "mask":"Weed/MASKS/02.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/03.PNG":
+        {
+            "mask":"Weed/MASKS/03.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/04.PNG":
+        {
+            "mask":"Weed/MASKS/04.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/05.PNG":
+        {
+            "mask":"Weed/MASKS/05.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/06.PNG":
+        {
+            "mask":"Weed/MASKS/06.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/07.PNG":
+        {
+            "mask":"Weed/MASKS/07.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/08.PNG":
+        {
+            "mask":"Weed/MASKS/08.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/09.PNG":
+        {
+            "mask":"Weed/MASKS/09.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/10.PNG":
+        {
+            "mask":"Weed/MASKS/10.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/11.PNG":
+        {
+            "mask":"Weed/MASKS/11.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/12.PNG":
+        {
+            "mask":"Weed/MASKS/12.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/13.PNG":
+        {
+            "mask":"Weed/MASKS/13.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/14.PNG":
+        {
+            "mask":"Weed/MASKS/14.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Weed/iMAGES/15.PNG":
+        {
+            "mask":"Weed/MASKS/15.PNG",
+            "color_categories":
+            {
+                "(255, 0, 0)":{"category":"weed","super_category":"plants"}
+            }
+        },
+        "Crop/Images/16.png":
+        {
+            "mask":"Crop/masks/16.png",
+            "color_categories":
+            {
+                "(255, 255, 255)":{"category":"crop","super_category":"plants"}
+            }
+        },
+        "Crop/Images/17.png":
+        {
+            "mask":"Crop/masks/17.png",
+            "color_categories":
+            {
+                "(255, 255, 255)":{"category":"crop","super_category":"plants"}
+            }
+        },
+        "Crop/Images/18.png":
+        {
+            "mask":"Crop/masks/18.png",
+            "color_categories":
+            {
+                "(255, 255, 255)":{"category":"crop","super_category":"plants"}
+            }
+        },
+        "Crop/Images/19.png":
+        {
+            "mask":"Crop/masks/19.png",
+            "color_categories":
+            {
+                "(255, 255, 255)":{"category":"crop","super_category":"plants"}
+            }
+        },
+        "Crop/Images/20.png":
+        {
+            "mask":"Crop/masks/20.png",
+            "color_categories":
+            {
+                "(255, 255, 255)":{"category":"crop","super_category":"plants"}
+            }
+        },
+        "Crop/Images/21.png":
+        {
+            "mask":"Crop/masks/21.png",
+            "color_categories":
+            {
+                "(255, 255, 255)":{"category":"crop","super_category":"plants"}
+            }
+        },
+        "Crop/Images/22.png":
+        {
+            "mask":"Crop/masks/22.png",
+            "color_categories":
+            {
+                "(255, 255, 255)":{"category":"crop","super_category":"plants"}
+            }
+        },
+        "Crop/Images/23.png":
+        {
+            "mask":"Crop/masks/23.png",
+            "color_categories":
+            {
+                "(255, 255, 255)":{"category":"crop","super_category":"plants"}
+            }
+        },
+        "Crop/Images/24.png":
+        {
+            "mask":"Crop/masks/24.png",
+            "color_categories":
+            {
+                "(255, 255, 255)":{"category":"crop","super_category":"plants"}
+            }
+        }
+
+    },
+    "super_categories":
+    {
+        "plants":["weed","crop"]
+    }
+}
